@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "My personal website launched"
+title: "Wangyin Zhao, Launches Site"
 date: 2022-06-03
 ---
 
-Hi, anyone who comes to my site! Welcome you all!
-  
+Welcome to my site!
 
 
